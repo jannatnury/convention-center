@@ -34,3 +34,12 @@ font-family: 'Dancing Script', cursive;
 #btn-royal:hover{
    color: rgb(2, 2, 158);
 }
+/* Our packages styles ends  */
+/* Client Review part styles */
+.client-review{
+    border-radius: 15px;
+}
+.client-review:hover{
+    background-color: rgb(171, 216, 245);
+}
+/* Client Review part styles ends */
