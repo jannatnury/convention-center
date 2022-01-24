@@ -5,6 +5,32 @@ font-family: 'Dancing Script', cursive;
 *{
     font-family: 'Poppins', sans-serif;
 }
-.logo{
-    font-family: 'Dancing Script', cursive; 
+#brand-name{
+    font-family: 'Dancing Script', cursive;
+}
+.brand-name{
+    color: red;
+}
+#logo{
+    height: 35px;
+    width: 310px;
+}
+#carousel-container{
+    width: 1440px;
+    height: 585px ;
+}
+ /* Our packages styles  */
+.list-none{
+    text-decoration: none;
+    list-style: none;
+}
+.bg-highlight{
+     background-color: rgb(245, 122, 208);
+     border-radius: 15px;
+}
+.services{
+    border-radius: 15px ;
+}
+#btn-royal:hover{
+   color: rgb(2, 2, 158);
 }
