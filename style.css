@@ -20,6 +20,11 @@ font-family: 'Dancing Script', cursive;
     width: 1440px;
     height: 585px ;
 }
+.carousel-btn{
+    color: floralwhite;
+    background-color: maroon;
+    border-radius: 10px,
+}
 /* Header styles ends  */
 /* <!-- Our Services section styles --> */
 .our-services{
