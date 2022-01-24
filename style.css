@@ -19,7 +19,10 @@ font-family: 'Dancing Script', cursive;
     width: 1440px;
     height: 585px ;
 }
- /* Our packages styles  */
+ /* Our packages container styles  */
+ .packages-header{
+     color: rgb(253, 73, 73);
+ }
 .list-none{
     text-decoration: none;
     list-style: none;
@@ -36,6 +39,9 @@ font-family: 'Dancing Script', cursive;
 }
 /* Our packages styles ends  */
 /* Client Review part styles */
+.client-heading{
+    color: rgb(160, 40, 156);
+}
 .client-review{
     border-radius: 15px;
 }
@@ -43,3 +49,8 @@ font-family: 'Dancing Script', cursive;
     background-color: rgb(171, 216, 245);
 }
 /* Client Review part styles ends */
+/* Frequently Asked Questions Styles  */
+.text-color{
+    color: midnightblue;
+}
+/* Frequently Asked Questions Styles Ends */
